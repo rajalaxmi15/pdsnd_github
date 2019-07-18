@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+07/15/2019
 
 ### Project Title
-Replace the Project Title
+Forking Github Repository
 
 ### Description
-Describe what your project is about and what it does
+Forked udacity's GitHub project repository. Forking allows to create
+a personal copy of original project.
 
 ### Files used
-Include the files used
+https://github.com/udacity/pdsnd_github
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://help.github.com/en/articles/fork-a-repo
 
