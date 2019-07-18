@@ -24,7 +24,7 @@ Clone Github remote repository
 Cloning remote repository allows to create a copy of it in local machine.
 
 ### Credits
-https://git-scm.com/docs/gitignore
+https://help.github.com/en/articles/cloning-a-repository
 
 
 ### Date created
