@@ -14,6 +14,18 @@ https://github.com/udacity/pdsnd_github
 ### Credits
 https://help.github.com/en/articles/fork-a-repo
 
+### Date created
+07/17/2019
+
+### Project Title
+Clone Github remote repository
+
+### Description
+Cloning remote repository allows to create a copy of it in local machine.
+
+### Credits
+https://git-scm.com/docs/gitignore
+
 
 ### Date created
 07/17/2019
