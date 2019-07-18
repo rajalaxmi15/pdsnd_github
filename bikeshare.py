@@ -75,14 +75,15 @@ def load_data(city, month, day):
     # read_csv: Read a comma-separated values (csv) file into DataFrame
        
     df=pd.read_csv(CITY_DATA[city])
-    #print(df.head())
-    
-    #print(df.dtypes)
+        
     ''' Convert argument to datetime. Pandas to_datetime() method helps to convert string Date time into Python Date time object.'''
+    
     df['Start Time']=pd.to_datetime(df['Start Time'])
+    
     # Added new column month by extracting month from Start Time
+    
     df['month']=df['Start Time'].dt.month
-    #print(df[['month']])      
+         
     if month != 'all':
         # use the index of the months list to get the corresponding int
         months = ['january', 'february', 'march', 'april', 'may', 'june']
@@ -92,13 +93,14 @@ def load_data(city, month, day):
         df = df[df['month'] == month]    
     
     #Added new column Week day by extracting Weekday from Start Time
+    
     df['day']=df['Start Time'].dt.weekday_name
-    #print(df[['day']])
+    
     # filter by day of week if applicable
     if day != 'all':
         # filter by day of week to create the new dataframe
         df = df[df['day'] == day.title()]
-    #print(df.head())
+    
     
     return df
 
