@@ -191,6 +191,7 @@ def user_stats(df):
     start_time = time.time()
 
     # TO DO: Display counts of user types
+    '''value_counts() function returns object containing counts of unique values.'''
     try:
         user_types=df['User Type'].value_counts()
         print(f'user types are: \n{user_types}')
