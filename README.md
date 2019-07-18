@@ -21,7 +21,10 @@ https://help.github.com/en/articles/fork-a-repo
 Clone Github remote repository
 
 ### Description
-Cloning remote repository allows to create a copy of it in local machine.
+Cloning a remote repository allows to create a copy of it in local machine.
+After cloning, we can make changes to the files or add new files in the local repository.
+To keep sync with remote repository we will push or pull updates.
+
 
 ### Credits
 https://help.github.com/en/articles/cloning-a-repository
