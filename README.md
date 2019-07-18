@@ -14,3 +14,16 @@ https://github.com/udacity/pdsnd_github
 ### Credits
 https://help.github.com/en/articles/fork-a-repo
 
+
+### Date created
+07/17/2019
+
+### Project Title
+Create .gitignore file
+
+### Description
+.gitignore file contains list of files which Git explicitly ignores them.
+
+### Credits
+https://git-scm.com/docs/gitignore
+
