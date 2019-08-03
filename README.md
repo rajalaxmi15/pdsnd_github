@@ -43,10 +43,12 @@ Create .gitignore file
 https://git-scm.com/docs/gitignore
 
 ### Date created
-08/02/2019
+06/27/2019
 
 ### Project Title
 Python Script to Explore US Bikeshare Data
+
+### Description
 
 This Python script is written for Udacity's Programming for Data Science Nanodegree. Bike share data contains data about bicycle renting in three large cities: Chicago, New York City, and Washington, DC. The script imports data from csv files and compute descriptive statistics from the data. It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
 
@@ -80,7 +82,7 @@ The script answers the following questions about the bike share data:
 •	What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
 
 ### Date created
-08/02/2019
+12/10/2017
 
 ### Project Title
 Injury Prevention in Health Information Management Department
@@ -91,9 +93,37 @@ which is a course work in Health Information Technology AAS degree. Aim of the p
 injury prevention in Health Information Management(HIM) department. Created 3 fictional scenarios for
 sentinal events and compared those with real events and Occupational Safety and Health Administration(OSHA) benchmarks.
 
-
 ### Files used
 Injury_Prevention_HIMDept.docx
+
+
+### Date created
+05/28/2019
+
+### Project Title
+Exploring relational database - Sakila DVD Rental database
+
+### Description
+Sakila DVD Rental database: The Sakila Database holds information about a company that rents movie DVDs. 
+Used SQL queries to understand customer base, such as what the patterns in movie watching are across different
+customer groups, how they compare on payment earnings, and how the stores compare in their performance.
+
+### Files used
+dvd-rental-erd-2.pdf
+sql-project-submission.pdf
+
+### Date created
+07/16/2015
+
+### Project Title
+Ebola Virus Disease
+
+### Description
+Created power point about Ebola disease for Biology-2404 class. 
+
+### Files used
+EbolaVirusDisease.pptx
+
 
 
 
