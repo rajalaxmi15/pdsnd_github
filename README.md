@@ -67,6 +67,7 @@ The Chicago and New York City files also contain the following two columns:
 •	Birth Year
 
 Questions explored
+
 The script answers the following questions about the bike share data:
 •	What is the most popular month for start time?
 •	What is the most popular day of week (Monday, Tuesday, etc.) for start time?
@@ -77,6 +78,22 @@ The script answers the following questions about the bike share data:
 •	What are the counts of each user type?
 •	What are the counts of gender?
 •	What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
+
+### Date created
+08/02/2019
+
+### Project Title
+Injury Prevention in Health Information Management Department
+
+### Description
+Created this project for QUALITY ASSESSMENT AND PERFORMANCE IMPROVEMENT: HITT 2343 class
+which is a course work in Health Information Technology AAS degree. Aim of the project is to analyze
+injury prevention in Health Information Management(HIM) department. Created 3 fictional scenarios for
+sentinal events and compared those with real events and Occupational Safety and Health Administration(OSHA) benchmarks.
+
+
+### Files used
+Injury_Prevention_HIMDept.docx
 
 
 
