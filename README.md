@@ -124,6 +124,18 @@ Created power point about Ebola disease for Biology-2404 class.
 ### Files used
 EbolaVirusDisease.pptx
 
+### Date created
+07/21/2014
+
+### Project Title
+Install Apache Website with 1GB volume
+
+### Description
+Created this project for Cloud Computing With AWS Class for Edureka.
+Aim of the project was to install Apache website with 1GB volume in Singapore region.
+
+### Files used
+project5_linux.docx
 
 
 
