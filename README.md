@@ -43,6 +43,39 @@ Create .gitignore file
 https://git-scm.com/docs/gitignore
 
 ### Date created
+05/28/2019
+
+### Project Title
+Exploring relational database - Sakila DVD Rental database
+
+### Description
+Sakila DVD Rental database: The Sakila Database holds information about a company that rents movie DVDs. 
+Used SQL queries to understand customer base, such as what the patterns in movie watching are across different
+customer groups, how they compare on payment earnings, and how the stores compare in their performance.
+
+### Files used
+dvd-rental-erd-2.pdf
+sql-project-submission.pdf
+
+### Date created
+06/09/2019
+
+### Project Title
+Analyze NYSE data 
+
+### Description
+NYSE data is a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
+Used Microsoft Excel to analyse Healthcare sector data, and calculated summary statistics and financial metrics; 
+Created profit and loss dashboard for healthcare facilities; Created forecast scenario for healthcare facilities.
+
+### Files used
+projectdata-nyse.xlsx
+NYSE.pdf
+
+
+
+
+### Date created
 06/27/2019
 
 ### Project Title
@@ -81,6 +114,8 @@ The script answers the following questions about the bike share data:
 •	What are the counts of gender?
 •	What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
 
+
+
 ### Date created
 12/10/2017
 
@@ -96,21 +131,6 @@ sentinal events and compared those with real events and Occupational Safety and 
 ### Files used
 Injury_Prevention_HIMDept.docx
 
-
-### Date created
-05/28/2019
-
-### Project Title
-Exploring relational database - Sakila DVD Rental database
-
-### Description
-Sakila DVD Rental database: The Sakila Database holds information about a company that rents movie DVDs. 
-Used SQL queries to understand customer base, such as what the patterns in movie watching are across different
-customer groups, how they compare on payment earnings, and how the stores compare in their performance.
-
-### Files used
-dvd-rental-erd-2.pdf
-sql-project-submission.pdf
 
 ### Date created
 07/16/2015
